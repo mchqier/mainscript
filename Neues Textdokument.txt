@@ -1,0 +1,10 @@
+git add *
+ git commit -m "Show Kurse name on startup"
+
+ git push -u origin master
+
+
+
+
+
+
